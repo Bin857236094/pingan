@@ -32,8 +32,8 @@ class Fudan:
         self.session.headers['User-Agent'] = self.UA
         self.url_login = url_login
 
-        self.uid = uid
-        self.psw = psw
+        self.uid = 18300680098
+        self.psw = Zb19990101
 
     def _page_init(self):
         """
